@@ -1,13 +1,14 @@
 # UXLinks
-	
 	1)	HTML
-		
-			HTML5Rocks
-			HTML5Please
+			code-guide		: https://github.com/mdo/code-guide
+			HTML5Rocks		: https://github.com/html5rocks
+			HTML5Please		: https://github.com/h5bp/html5please
+			html5boilerplate	: https://github.com/h5bp/html5boilerplate.com
 	
 	2)	CSS
 	
-			CSS3Please
+			CSS3Please		: https://github.com/paulirish/css3please
+			WebSite			: http://css3please.com	
 	
 	
 	3) 	Javascript
