@@ -9,30 +9,28 @@
 
 2)	CSS
 
-  - [CSS3Please](https://github.com/paulirish/css3please) - http://css3please.com	
+  - [CSS3Please](https://github.com/paulirish/css3please) - http://css3please.com
 
 3) 	Javascript
 
 4)	Frameworks/Libraries
-
-	1)	JS
 	
-		- [Angular](https://github.com/angular) - http://css3please.com
+1.  JS
+  -  [Angular](https://github.com/angular) - 
+  -  [Backbone]() - 
+  -  [Knockout]() - 
+  -  [Ember]() - 
+  -  [Require]() - 
+  -  [Yo]() - 
+  -  [Bower]() - 
+  -  [Grunt]() - 
 		
-		-  [Backbone]() - 
-		-  [Knockout]() - 
-		-  [Ember]() - 
-		-  [Require]() - 
-		-  [Yo]() - 
-		-  [Bower]() - 
-		-  [Grunt]() - 
-		
-	2)	HTML/CSS/Components
-		
-		-  [Bootstrap]() - 
-		-  [Foundation]() - 
-		-  [Skeleton]() - 
-		-  [Grid 360]() - 
+2.	HTML/CSS/Components
+	
+	-  [Bootstrap]() - 
+	-  [Foundation]() - 
+	-  [Skeleton]() - 
+	-  [Grid 360]() - 
 	
 5)	Cross Browser Support
 	
