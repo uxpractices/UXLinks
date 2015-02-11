@@ -33,5 +33,7 @@
 	-  [Grid 360]() - 
 	
 5)	Cross Browser Support
+  -  [caniuse](http://caniuse.com/)
+  -  [Platform](http://www.evolutionoftheweb.com/#/evolution/day)
 	
 		
