@@ -2,14 +2,14 @@
 
 1)	HTML
 
-	- [Code Guide](https://github.com/mdo/code-guide)
-	- [HTML5Rocks](https://github.com/html5rocks)
-	- [HTML5Please](https://github.com/h5bp/html5please)
-	- [Html5 Boilerplate](https://github.com/h5bp/html5boilerplate.com)
+	-  [Code Guide](https://github.com/mdo/code-guide)
+	-  [HTML5Rocks](https://github.com/html5rocks)
+	-  [HTML5Please](https://github.com/h5bp/html5please)
+	-  [Html5 Boilerplate](https://github.com/h5bp/html5boilerplate.com)
 
 2)	CSS
 
-  	- [CSS3Please](https://github.com/paulirish/css3please) - http://css3please.com
+  	-  [CSS3Please](https://github.com/paulirish/css3please) - http://css3please.com
 
 3) 	Javascript
 
